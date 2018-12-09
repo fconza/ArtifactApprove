@@ -1,0 +1,3 @@
+C:\Users\sylvie\source\repos\ArtifactApprove\ArtifactApprove\obj\Debug\netcoreapp2.1\ArtifactApprove.csproj.CoreCompileInputs.cache
+C:\Users\sylvie\source\repos\ArtifactApprove\ArtifactApprove\obj\Debug\netcoreapp2.1\ArtifactApprove.AssemblyInfoInputs.cache
+C:\Users\sylvie\source\repos\ArtifactApprove\ArtifactApprove\obj\Debug\netcoreapp2.1\ArtifactApprove.AssemblyInfo.cs
